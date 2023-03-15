@@ -1,6 +1,6 @@
 {
   "name": "@ditus/yup-unique",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Yup rule that checks if the values in an array are unique (i.e. no duplicate values).",
   "private": false,
   "main": "dist/index.js",
